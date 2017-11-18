@@ -1,2 +1,2 @@
 # Deep-Learning
- A repository for Deep Learning Projects
+ Deep Neural Network using Numpy
